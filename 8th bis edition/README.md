@@ -1,4 +1,9 @@
 # 8th bis edition
-Listings done during summer project at ICM (University of Warsaw).
+Some code written during summer edition at ICM (University of Warsaw).
 
-To be continued
+*IPv4
+*IPv6
+*HTTP 1.1 
+*network architecture
+
+TBC
