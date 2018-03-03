@@ -16,6 +16,8 @@ If you want to know more about that project, please visit [this site](http://cie
 
 [poster1]:https://github.com/KubaGorczynski/MIMUW/blob/master/ciekawi9.jpg "Matematyka dla ciekawych świata"
 
+__________
+
 #### 8th edition 
 
 We've covered some basics about number theory and cryptography:
