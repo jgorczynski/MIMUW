@@ -13,9 +13,9 @@ AFAIK, the following math branches will appear:
 If you want to know more about that project, please visit [this site]
 (http://ciekawi.icm.edu.pl/drupal/).
 
-![alt text][poster]
+![alt text][poster1]
 
-[poster]:https://github.com/KubaGorczynski/MIMUW/blob/master/ciekawi9.jpg "Matematyka dla ciekawych świata"
+[poster1]:https://github.com/KubaGorczynski/MIMUW/blob/master/ciekawi9.jpg "Matematyka dla ciekawych świata"
 
 #### 8th edition 
 
