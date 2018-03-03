@@ -10,8 +10,7 @@ AFAIK, the following math branches will appear:
 * combinatorics
 * ...
 
-If you want to know more about that project, please visit [this site]
-(http://ciekawi.icm.edu.pl/drupal/).
+If you want to know more about that project, please visit [this site](http://ciekawi.icm.edu.pl/drupal/).
 
 ![alt text][poster1]
 
