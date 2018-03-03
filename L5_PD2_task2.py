@@ -10,3 +10,5 @@ def szyfruj_liste(lista):
     key = len(x)
     cezar(x, key)
     
+
+###

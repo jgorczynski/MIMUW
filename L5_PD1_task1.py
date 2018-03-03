@@ -6,3 +6,5 @@ for x in range(10, 100):
 #wzorzec
 for x in range(14, 100, 7):
     print(x, end = ' ')
+
+###

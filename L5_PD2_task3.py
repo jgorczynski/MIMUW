@@ -14,3 +14,5 @@ def szyfruj_napis(napis, klucz):
     else:
       print(x, end='')
       
+
+###

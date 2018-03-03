@@ -13,3 +13,5 @@ print()
 #zadanie 3.1 
 for x in lista:
     print(x[::-1])
+
+###
