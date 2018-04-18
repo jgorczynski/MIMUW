@@ -47,6 +47,14 @@ slownik['a'] = 'yy'
 #for k, v in m.items():
     #print (k, "=>", v)
 
+#sort dictionary
+mapa = {'5':3, 'bd':20, 'a':101}
+lista = sorted(mapa.items())
+print(lista)
 
+def k(x):
+    return x[1]
+lista = sorted(mapa.items(), key=k)
+print(lista)
 
 
