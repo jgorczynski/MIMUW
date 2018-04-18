@@ -24,7 +24,7 @@ inUTF7 = a.encode('utf7')
 inUTF8 = a.encode()
 print(a + "\nw utf7 to: " + str(inUTF7) + "\nw utf8: " + str(inUTF8))
 
-print("zdekodowany UTF7: " + inUTF7.decode('utf7'))
+print("\nzdekodowany UTF7: " + inUTF7.decode('utf7'))
 
 import codecs
 b64 = codecs.encode(inUTF8, 'base64')

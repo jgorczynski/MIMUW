@@ -27,6 +27,7 @@ def wyiksuj(s):
     print(ns)
 
 wyiksuj('ALA ma KOTA')
+wyiksuj('Lorem ipsum dolor sit amet')
 
 
 
