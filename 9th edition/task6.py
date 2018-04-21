@@ -1,8 +1,2 @@
-def zlicz(a):
-    count_me = 0
-    for i in range(len(a)):
-        if a[i] in a: 
-            count_me += 1
-        print(str(a[i]) + " wystepuje " + str(count_me) + " razy")
+l = ['A', 'B', 'A']
 
-zlicz(['a', 'b', 'a'])
